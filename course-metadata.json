@@ -1,0 +1,36 @@
+{
+  "id": "688feb72e78eb73e626b48af",
+  "title": "React 101",
+  "description": "desc",
+  "learningObjectives": [
+    "Understand the concept of React",
+    "Learn the fundamental coding techniques in React",
+    "The ability to apply learned techniques in creating a react application",
+    "Understand the life cycle of a React component",
+    "Learn how to handle events in React",
+    "Understand how to perform form validation in React"
+  ],
+  "finalProjectDetails": {
+    "overview": "Build a classic todo list application using React",
+    "planningResources": [
+      "React Documentation",
+      "Online coding resources",
+      "Sample Todo list applications"
+    ],
+    "submissionInstructions": "All the source code should be pushed to your GitHub repository. Share the repository link via LMS for review. You should also deploy your application and share the live link.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/react-101",
+  "createdAt": "2025-08-03T23:06:26.409Z",
+  "updatedAt": "2025-08-03T23:06:26.409Z",
+  "lessonCount": 6
+}
